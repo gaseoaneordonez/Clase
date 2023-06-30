@@ -14,3 +14,10 @@ Miércoles 28-06-23:
 Predecir el valor de Mercado Libre: introducción a modelos predictivos.
 M5 - 06 - Introducción al Machine Learning: modelos predictivos y regreción lineal.
 M5 - 09 - Folium: interacción con mapas geográficos de la librería Folium.
+
+# Clase 4:
+Jueves 29-06-23:
+M5 - 09 - Folium: ejercicios con librería Folium, generación de mapas interactivos.
+M5 - SPACEX2 - 5 Interactive Visual Analytics con Folium: aplicación de ejercicos con librería Folium al caso SPACE X.
+M5 - SPACEX2 - 6 Machine Learning Predicciones: aplicación de regreción lineal y predicciones basadas en aprendizaje automátio.
+SpaceX - 4 - EDA with Data Visualization: ejercicios de gráficos con librería matplotlib.pyplot y variables Space X.
